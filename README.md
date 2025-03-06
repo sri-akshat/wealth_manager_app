@@ -43,7 +43,16 @@ flutter test
 
 ## Screenshots
 
-[Coming Soon]
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="assets/screenshots/screenshot1.png" width="250" alt="Loading Screen">
+    <img src="assets/screenshots/screenshot2.png" width="250" alt="Loading Screen">
+    <img src="assets/screenshots/screenshot3.png" width="250" alt="Login Screen">
+    <img src="assets/screenshots/screenshot4.png" width="250" alt="Login Screen">
+    <img src="assets/screenshots/screenshot5.png" width="250" alt="Login Screen">
+    <img src="assets/screenshots/screenshot6.png" width="250" alt="Dashboard">
+    <img src="assets/screenshots/screenshot7.png" width="250" alt="Investments">
+    <!-- Add more screenshots as needed -->
+</div>
 
 ## License
 
