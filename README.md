@@ -1,6 +1,6 @@
 # Wealth Manager App
 
-[![Flutter CI](https://github.com/YOUR_USERNAME/wealth_manager_app/actions/workflows/flutter_ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/wealth_manager_app/actions/workflows/flutter_ci.yml)
+[![Flutter CI](https://github.com/sri-akshat/wealth_manager_app/actions/workflows/flutter_ci.yml/badge.svg?branch=main)](https://github.com/sri-akshat/wealth_manager_app/actions/workflows/flutter_ci.yml)
 [![codecov](https://codecov.io/github/sri-akshat/wealth_manager_app/graph/badge.svg?token=8J62GSL6FD)](https://codecov.io/github/sri-akshat/wealth_manager_app)
 
 A comprehensive wealth management application built with Flutter that allows users to track investments, manage transactions, and analyze their financial portfolio.
